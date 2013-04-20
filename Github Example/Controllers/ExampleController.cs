@@ -13,6 +13,12 @@ namespace Github_Example.Controllers
 
         public ActionResult Index()
         {
+            
+            return View();
+        }
+
+        public ActionResult NewAction()
+        {
             return View();
         }
 
