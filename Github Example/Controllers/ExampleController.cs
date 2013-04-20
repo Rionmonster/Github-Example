@@ -17,8 +17,10 @@ namespace Github_Example.Controllers
             return View();
         }
 
+        //Additional Comment
         public ActionResult NewAction()
         {
+            //Added a Comment
             return View();
         }
 
